@@ -29,7 +29,8 @@ When you open the gui.py file after successfully installing the modules you will
 You can watch examples of complete vidoes [here](https://www.youtube.com/playlist?list=PLlVNFvFbjZ3G73D6XfwyN_exaYW9FQOk6).
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Screenshots/ss_01.png)
+![App Screenshot](Screenshots/ss_02.png)
 
 
 ## Credits
