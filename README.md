@@ -9,7 +9,7 @@ This software is a simple program that generates video just from text using Open
 This project requires internet connection to install all the modules. You can download them manually or with requirements.txt
 
 ```terminal
-  cd AI_file_sorted
+  cd ClipCraft
 ```
 ```terminal
   pip3 install -r requirements.txt
