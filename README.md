@@ -10,6 +10,8 @@ This project requires internet connection to install all the modules. You can do
 
 ```terminal
   cd AI_file_sorted
+```
+```terminal
   pip3 install -r requirements.txt
 ```
     
